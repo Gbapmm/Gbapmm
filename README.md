@@ -1,23 +1,12 @@
-
-
-<img align="left" src="https://imageio.forbes.com/specials-images/imageserve/62ab33637e602563e78819cd/Char-Aznable/960x0.jpg?format=jpg&width=1440" alt="Char" width="320" height="320"/> 
-
 ```csharp
 anordinaryusername@github
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 968
-Stars: 14
-Discord: RandomPotato#1377
+OS: MacOS / Windows 10
+Location: Spain
+Frameworks: NaN
+Languages: Java, JavaScript, HTML, CSS
+Learning: Node.js
+Hobbies: Reading, Gaming
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
